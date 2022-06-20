@@ -6,4 +6,4 @@ __pycache__/
 .vscode
 build
 dist
-evmoswallet.egg-info
+pyevmosaddressconverter.egg-info
